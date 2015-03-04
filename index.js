@@ -42,4 +42,4 @@ app.listen(app.get('port'), function() {
   console.log("Node app is running at localhost:" + app.get('port'));
 });
 
- mongodb://<nwjam>:<drolsnor1>@ds055689.mongolab.com:55689/swagbase-3000
+mongodb://<nwjam>:<drolsnor1>@ds055689.mongolab.com:55689/swagbase-3000
